@@ -1,0 +1,61 @@
+welcome. This is a basic model virtual phone. this phone contains automatic online class attender, calculator, camera, diary, emailing facility, shin chan game, sms and wikipedia.
+If you click any of the app it will direct you to the app's window.
+Example, if you click the automatic online class attender it will take you to the link provided in the programe.
+It will automatically mute the mic and off the camera and press join.
+Enjoy your virtual phone.
+Handle with care.
+
+welcome to the world of calcuclations. In this app you can do the mathematic calculations.
+For that you need to do,
+step 1, enter the calculations. Example, 2+3. you can type in your device or else click the buttons provided.
+step 2, press the equal to button in the phone or enter key in your device to see the result.
+step 3, if you want to continue with that result click or press the any symbol key and give your numbers. 
+If you to clear you can click on the AC button or C button or else press escape key in your device.
+If you want to go back to the main menu click on the back button.
+Enjoy your calculations
+
+Welcome to the world of pictures. Here you can take selfie of your or with your friends.
+If you want to selfie click on the button snapshot or press C.
+If you want to return to the main menu click on the button exit or press escape in your device.
+Spread happiness with a smile.
+
+Welcome to the world of memories.
+Here you can maintain your personal diary.
+step 1 . In the yellow box enter that day's special event.
+step 2 . In the blue box enter your memories of the day.
+step 3 . Click save.
+If you want to see your old memories click display and it opens a new window,
+there you are given three boxes if the first box enter the date, in the second box enter the month, and, in the third box enter the year.
+then click ckeck button.
+Your memories would be displayed.
+Have a great days.
+
+Welcome to world of internet.
+Here you can send mail to your friends through gmail.
+for that you need to do,
+step 1, enter your friends email address, in this you can type with gmail dor com or without gmail dot com,
+for example let xyz be the user,
+in the username box xyz@gmail.com is valid xyz is also valid.
+step 2, Enter the subject of sending this mail.
+step 3, Start to type your message.
+step 4, click on the send button.
+Your mail has been sent to your friend.
+If you want to go to main menu click exit button.
+Have a great emailing time.
+
+Welcome to the place for sms. In this app you can message any of your friends.
+step 1, Enter your friend's number.
+step 2, Enter your message to your friend.
+step 3, Click on the send button.
+Your message has been sent.
+If you want to go to main menu click exit.
+Have a great messaging time.
+
+Searching has no limit. Welcome to wikipedia. In this app you can search what ever you want.
+For that you need to do
+step 1, Enter your search in the search box.
+step 2, Click submit or press enter key
+Your result will be displayed.
+If you want to save it in a text file, enter the name of the file in the right side box and click save.
+If you want to go to main menu click exit or press escape in your device.
+May this day goes good for you.
